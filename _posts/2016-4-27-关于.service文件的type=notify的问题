@@ -1,6 +1,6 @@
 ---
   layout: default 
-  title: service文件的type=notify的问题 
+  title: 关于.service文件的type=notify的问题 
 ---
 今天运行自定义单元文件
 systemctl start hello.service
